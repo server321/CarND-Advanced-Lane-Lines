@@ -56,17 +56,6 @@ For perspective transform to "bird's eye" perspective we use function called war
 
 For correct transformation we provide four source and destination points. I have selected the following source and destination points.
 
-** Source points:**
-190, 720	
-588, 456	
-698, 456	
-1145,720	
-
-**Destination points:**
-340, 720
-340, 0
-995, 0
-995, 720
 
 | Source        | Destination   | 
 |:-------------:|:-------------:| 
